@@ -40,7 +40,7 @@
 	<div class="center">
 		<a href="https://de.wikipedia.org/wiki/Kanton_(Schweiz)" target="_blank">
 			<!-- <h6>House of Satoshi</h6> -->
-			<img src="./kantone.png" alt="" />
+			<img src="https://github.com/user-attachments/assets/6b77252c-d6f0-4740-9799-e08748b738ae" alt="" />
 		</a>
 	</div>
 	<!-- 	
@@ -157,24 +157,6 @@
 					<tr>
 						<td>
 							<a
-								href="https://polygonscan.com/token/0x96fc2e03c11ab6f9e13d97102f834c1c969e2588"
-								target="_blank"
-							>
-								Steinböcke
-							</a>
-						</td>
-						<td class="longInfo">
-							<a
-								href="https://www.geckoterminal.com/polygon_pos/pools/0x368a05761ee0d92a1753790adc80c5fce612195a"
-								target="_blank"
-							>
-								500.000.000 Coins
-							</a>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<a
 								href="https://polygonscan.com/token/0xdbc5a5b3e6cb3cbcdb4b62c1a4c182d08da3e4f2"
 								target="_blank"
 							>
@@ -190,6 +172,25 @@
 							</a>
 						</td>
 					</tr>
+					<!-- <tr>
+						<td>
+							<a
+								href="https://polygonscan.com/token/0x96fc2e03c11ab6f9e13d97102f834c1c969e2588"
+								target="_blank"
+							>
+								Steinböcke
+							</a>
+						</td>
+						<td class="longInfo">
+							<a
+								href="https://www.geckoterminal.com/polygon_pos/pools/0x368a05761ee0d92a1753790adc80c5fce612195a"
+								target="_blank"
+							>
+								500.000.000 Coins
+							</a>
+						</td>
+					</tr>
+
 					<tr>
 						<td>
 							<a
@@ -207,7 +208,7 @@
 								299.792.458 Coins
 							</a>
 						</td>
-					</tr>
+					</tr> -->
 					<tr>
 						<td>
 							<a

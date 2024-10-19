@@ -59,7 +59,7 @@ Idee ist.
 <p><br /></p>
 <a href="https://www.house-of-satoshi.ch/" target="_blank">
 	<h6>House of Satoshi</h6>
-	<img src="./house-of-satoshi.png" alt="" />
+	<img src="https://github.com/user-attachments/assets/7ba42f58-43e8-43c3-b7f0-a67b90d32520" alt="" />
 </a>.
 
 <p><br /><br /><br /></p>
