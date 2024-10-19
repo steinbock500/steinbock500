@@ -26,7 +26,7 @@
 				{/each}
 				<li>
 					<a href="/" class="logo">
-						<img style="border-radius: 50%;" alt="Geo Cash Logo" src="/libertas-favicon/steinbock.png" />
+						<img style="border-radius: 50%;" alt="Geo Cash Logo" src="https://github.com/user-attachments/assets/6c4af7cf-3c5c-4b45-8230-28eb95791d8b" />
 					</a>
 				</li>
 				{#each linksRight as [path, name]}
