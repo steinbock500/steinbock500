@@ -18,9 +18,6 @@
 				>Freiheit</a
 			>
 
-			<!-- <a class="underline" href="https://freedomcash.org" target="_blank" rel="noopener"
-				>FreedomCash.org</a
-			> -->
 		</span>
 		<span>•</span>
 		<span><a href="/philosophy">Impressum</a></span>
