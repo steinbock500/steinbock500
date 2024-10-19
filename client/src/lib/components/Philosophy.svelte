@@ -96,23 +96,23 @@ für unsere Seiten ausgeben, handelt es sich vielleicht um Scammer.
 
 <h4>Kontakt</h4>
 Unsere Projekte sind
-<a href="https://github.com/moniquebaumann/freedomcash" target="_blank"> Open Source</a>.
+<a href="https://github.com/steinbock500/steinbock500" target="_blank"> Open Source</a>.
 <p>
 	<br />Wir glauben nicht an zentrale Verantwortlichkeiten. Daher reagieren wir selten oder gar
 	nicht auf E-Mails an <a href="mailto:monique@freedomcash.org">monique@freedomcash.org</a>.
 </p>
 <p>
 	<br />Falls Du eine Schwachstelle entdeckst, kannst du eine Fehlermeldung via
-	<a href="https://github.com/moniquebaumann/freedomcash/issues/new" target="_blank">GitHub Issue</a
+	<a href="https://github.com/steinbock500/steinbock500/issues/new" target="_blank">GitHub Issue</a
 	>
 	beisteuern. Zusätzlich kannst Du die passende Lösung per
-	<a href="https://github.com/moniquebaumann/freedomcash/pulls" target="_blank"> Pull Request</a> bereitstellen.
+	<a href="https://github.com/steinbock500/steinbock500/pulls" target="_blank"> Pull Request</a> bereitstellen.
 </p>
 <p><br /></p>
 <div id="impressum">
 	<h4>Impressum</h4>
 	Es handelt sich bei unseren Projekten nicht um gewerbliche Projekte sondern um
-	<a href="https://github.com/moniquebaumann/freedomcash" target="_blank">Open Source</a>
+	<a href="https://github.com/steinbock500/steinbock500" target="_blank">Open Source</a>
 	Bildungsprojekte ohne Gewinnerzielungsabsicht unsererseits. Wir sind bereits frei.
 	<p><br /></p>
 	Aus diesen Gründen verzichten wir auf ein
@@ -134,8 +134,9 @@ Unsere Projekte sind
 	<a href="https://freedomlog.de" target="_blank">Freedomlog.de</a> einzuführen.
 	<p><br /></p>
 	Prototypisch haben wir ein solches dezentrales Content Moderationssystem im Rahmen des
-	<a
+	<!-- <a
 		href="https://github.com/moniquebaumann/freedom-tribunal/blob/main/freedom-tribunal.sol"
 		target="_blank">FreedomTribunal</a
-	> Smart Contract's implementiert.
+	> -->
+	FreedomTribunal Smart Contract's implementiert.
 </div>

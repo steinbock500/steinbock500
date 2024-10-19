@@ -59,13 +59,13 @@
 		href="https://www.geckoterminal.com/polygon_pos/pools/0x3fed6f32655da35c20b8fb3452006309b1d64a97"
 		target="_blank">26.000.000 Schweizer</a
 	>
-	und
-	<a
+	und <a href="https://philoro.ch/swiss-wildlife" target="_blank"> einige Silbermünzen </a>
+	<!-- <a
 		href="https://www.geckoterminal.com/polygon_pos/pools/0x368a05761ee0d92a1753790adc80c5fce612195a"
 		target="_blank"
 	>
 		500.000.000 Steinböcke
-	</a>
+	</a> -->
 	<p><br /></p>
 	in Umlauf gebracht.
 
@@ -109,7 +109,7 @@
 	<h4>Mach es Besser</h4>
 	<p><br /></p>
 	Unser Code ist
-	<a href="https://github.com/moniquebaumann/freedomcash" target="_blank">Open Source</a>. Gerne
+	<a href="https://github.com/steinbock500/steinbock500" target="_blank">Open Source</a>. Gerne
 	kopieren und besser machen.
 	<p><br /></p>
 	Falls Du investierst, investiere vielleicht nur sehr kleine experimentelle Beträge.
@@ -312,14 +312,6 @@
 			<Philosophy></Philosophy>
 		{/if}
 		<p><br /><br /><br /></p>
-		Ich kaufe und verkaufe
-		<a
-			href="https://polygonscan.com/address/0xb841A4f979F9510760ecf60512e038656E68f459"
-			target="_blank">Geo Cash</a
-		>, Silber und Gold.
-		<a href="https://github.com/moniquebaumann" target="_blank"><i>Monique Baumann</i></a>
-
-		<p><br /><br /></p>
 		{#if !visitorHasBrowserWallet && !visitorWithMobile}
 			<p><br /></p>
 			Bitte installiere ein vertrauenswürdiges Browserwallet wie beispielsweise<a

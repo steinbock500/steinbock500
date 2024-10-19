@@ -7,7 +7,7 @@
 		<span>
 			<a
 				class="underline"
-				href="https://github.com/moniquebaumann/freedomcash"
+				href="https://github.com/steinbock500/steinbock500"
 				target="_blank"
 				rel="noopener">GitHub Code</a
 			>
